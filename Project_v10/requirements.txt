@@ -1,0 +1,12 @@
+torch==2.8.0
+transformers==4.57.1
+accelerate==1.11.0
+numpy==2.3.5
+seqeval==1.2.2
+razdel==0.5.0
+openpyxl==3.1.5
+pandas==2.2.3
+matplotlib==3.10.7
+ipykernel==7.4.0
+jupyterlab>=4,<5
+ipywidgets>=8,<9

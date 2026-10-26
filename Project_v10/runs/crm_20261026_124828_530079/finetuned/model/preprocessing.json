@@ -1,0 +1,13 @@
+{
+  "use_column": false,
+  "max_length": 128,
+  "labels": [
+    "O",
+    "B-PER",
+    "I-PER",
+    "B-ORG",
+    "I-ORG"
+  ],
+  "tokenizer": "razdel",
+  "initial_model": "/Users/alexeypetrischev/all_repos/serch_pers/model"
+}
