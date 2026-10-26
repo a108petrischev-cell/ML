@@ -1,2 +1,5 @@
 # Keep large model weights locally; GitHub rejects files over 100 MB.
 *.safetensors
+
+# Local Qwen settings and temporary files.
+/.qwen/

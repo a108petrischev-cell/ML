@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(/library/frameworks/python.framework/versions/3.14/bin/python3.14 *)",
-      "Bash(sed *)"
-    ]
-  },
-  "$version": 4
-}
