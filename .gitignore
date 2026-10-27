@@ -1,5 +1,8 @@
 # Keep large model weights locally; GitHub rejects files over 100 MB.
 *.safetensors
 
+# Kaggle credit-card-fraud dataset (144 MB) is re-downloadable.
+anomaly_search/data/*.csv
+
 # Local Qwen settings and temporary files.
 /.qwen/
